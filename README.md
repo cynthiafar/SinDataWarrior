@@ -14,6 +14,7 @@ Transitioning out of the banking industry, and because I loved working with the 
 Working in the research department was some of the best work experience in  my life. My love for statistics and data science stood out and often times I was asked to team up. I was fortune to  gain first hand experience within the research lab leading to some award winning publications. 
 
 When COVID hit it ceased research and it lead me to obtain my Masters in Data Analytics. Acceptance into the Masters program allowed me to showcase algorithms, concepts, analysis and techniques I had developed along the way. 
+
 Taking a moment to stop and think about my career journey Data Analytics was something with me all along. I feel extremely lucky and blessed to have had the opportunity to further my education, and I am humbled by all the people who mentored me along the way. 
 
 # Education
@@ -23,7 +24,7 @@ Bachlor Psychology
 
 # Special Thanks
 
-Mary
+#### Mary
 For your constant support, reassurance, and nerdy data analytics conversations we have. The knowledge you posses and the way you are always keeping me on my toes with new projects is a quality between us that I will always cherish. 
 
 Alexis 
