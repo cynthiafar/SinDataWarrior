@@ -27,15 +27,15 @@ Bachlor Psychology
 #### Mary
 For your constant support, reassurance, and nerdy data analytics conversations we have. The knowledge you posses and the way you are always keeping me on my toes with new projects is a quality between us that I will always cherish. 
 
-Alexis 
+#### Alexis 
 Thank you for seeing my potential early on when I could not see it within myself. Your patience, ability to mentor, and explain concepts has set me up with a firm foundation with data and research. I appreciate your mentorship in my personal development. 
 
-Colton 
+#### Colton 
 My love for working with Data came about from taking your SPSS class. Your ability to provide examples of statistical analysis, hypothesis testing, and reporting allowed me to pressure other statistical programs. 
 
-Jeremy 
+#### Jeremy 
 Words will never express how much gratitude and respect I have for you. The amount of support you provided in my life is beyond expression of words. 
 
-Family
+#### Family
 Thank you for allowing me the opportunity to try out anything and everything. For never forcing gender stereotypes roles onto me. It’s because of you I have such a vast area of knowledge for auto mechanics to cosmetology.
 
